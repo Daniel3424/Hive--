@@ -1,5 +1,5 @@
 # ORC
-ORC(Optimized Row Columnar)는 칼럼 기반의 파일 저장방식으로, Hadoop, Hive, Pig, Spark등에 적용가능합니다. 데이터베이스의 데이터를 읽을 때 보통 칼럼단위의 데이터를 이용하는 경우가 많습니다. ORC는 칼럼단위로 데이터를 저장하기 때문에 칼럼의 데이터를 찾는 것이 빠르고, 압축효율이 좋습니다.
+ORC(Optimized Row Columnar)는 칼럼 기반의 파일 저장방식으로, ***Hadoop***, ***Hive***, ***Pig***, ***Spark*** 등에 적용가능합니다. 데이터베이스의 데이터를 읽을 때 보통 칼럼단위의 데이터를 이용하는 경우가 많습니다. ORC는 칼럼단위로 데이터를 저장하기 때문에 칼럼의 데이터를 찾는 것이 빠르고, 압축효율이 좋습니다.
 
 ![ORC](https://image.slidesharecdn.com/w-1205p-230a-radhakrishnanv3-140617155040-phpapp02/95/hive-and-apache-tez-benchmarked-at-yahoo-scale-21-638.jpg?cb=1403020414)
 
